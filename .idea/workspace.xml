@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6b9c178-603d-4740-9953-7b5fe883c634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_display_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_display_desktop_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_lifecycle_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_lifecycle_desktop_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_statusbar_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_storage_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_storage_desktop_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_util_4_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_charm_glisten_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_linux_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_linux_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_linux_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htu_gluon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativeImpl/graalvm-nativeimpl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-view-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gluonapplication/GluonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gluonapplication/NativeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gluonapplication/GluonApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/HelloGluon/launcher.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/HelloGluon/launcher.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/jniconfig-x86_64-linux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/log/client-debug0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/reflectionconfig-x86_64-linux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/resourceconfig-x86_64-linux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/AArch64LibCHelperDirectives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/AArch64LibCHelperDirectives.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/AMD64LibCHelperDirectives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/AMD64LibCHelperDirectives.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/BuiltinDirectives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/BuiltinDirectives.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/JNIHeaderDirectives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/JNIHeaderDirectives.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/PosixDirectives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/SVM-1614357978858/PosixDirectives.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/classpathJar.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/charm-glisten-6.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/display-4.0.10-desktop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/display-4.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/javafx-base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/javafx-controls.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/javafx-graphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/lifecycle-4.0.10-desktop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/lifecycle-4.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/statusbar-4.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/storage-4.0.10-desktop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/storage-4.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/client/x86_64-linux/gvm/tmp/deps/util-4.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/single-view-example-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p1aqL2xWsMQFVk5bWQs6xAy4Gw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6b9c178-603d-4740-9953-7b5fe883c634" name="Default Changelist" comment="" />
+      <created>1614353240042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614353240042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="269" width="426" height="509" key="FileChooserDialogImpl" timestamp="1614357147037">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="738" y="269" width="426" height="509" key="FileChooserDialogImpl/0.0.1920.1054@0.0.1920.1054" timestamp="1614357147037" />
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1614355446389">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1614355446389" />
+    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1614355446387">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="280" key="GridCell.Tab.0.center/0.0.1920.1054@0.0.1920.1054" timestamp="1614355446387" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1614355446386">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="280" key="GridCell.Tab.0.left/0.0.1920.1054@0.0.1920.1054" timestamp="1614355446386" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1614355446388">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="280" key="GridCell.Tab.0.right/0.0.1920.1054@0.0.1920.1054" timestamp="1614355446388" />
+    <state x="443" y="104" width="1026" height="842" key="SettingsEditor" timestamp="1614355671988">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="443" y="104" width="1026" height="842" key="SettingsEditor/0.0.1920.1054@0.0.1920.1054" timestamp="1614355671988" />
+    <state x="287" y="254" width="1337" height="543" key="new project wizard" timestamp="1614355766519">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="287" y="254" width="1337" height="543" key="new project wizard/0.0.1920.1054@0.0.1920.1054" timestamp="1614355766519" />
+  </component>
+</project>
