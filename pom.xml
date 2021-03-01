@@ -94,9 +94,11 @@
             <plugin>
                 <groupId>com.gluonhq</groupId>
                 <artifactId>client-maven-plugin</artifactId>
-                <version>${client.plugin.version}</version>
+                <version>0.1.38</version>
                 <configuration>
                     <target>${client.target}</target>
+                    <mainClass>${mainClassName}</mainClass>
+                    <enableSWRendering>true</enableSWRendering>
                     <attachList>
                         <list>display</list>
                         <list>lifecycle</list>
